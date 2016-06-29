@@ -1,7 +1,7 @@
 # OpenShift Kafka Cartridge
 This cartridge was created in the scope of understanding how Openshift cartridges work and to provide Kafka in Openshift.
 
-Cartridge Url: https://github.com/FlavioF/openshift-kafka-cartridge/blob/master/metadata/manifest.yml
+Cartridge Url: https://github.com/AliAboud/kafka-openshift/blob/master/metadata/manifest.yml
 
 ## About Apache Kafka
 Apache Kafka is publish-subscribe messaging rethought as a distributed commit log. [Source](https://kafka.apache.org/)
